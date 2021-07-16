@@ -25,7 +25,7 @@ SECRET_KEY = 'ctj(q0&#0x49uj=zi^#s=t@8gd4!t5r_%=a3(g$(w@3eau56%$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
